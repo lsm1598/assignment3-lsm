@@ -9,6 +9,11 @@
 #define WIDTHBYTES(bits) (((bits)+31)/32*4)
 #define BYTE    unsigned char
 
+// 오픈소스 SW기초 협업 실습
+// 오픈소스 SW기초 협업 실습
+// 오픈소스 SW기초 협업 실습
+
+
 void bmpBWrw()
 {
 	FILE *infile;
