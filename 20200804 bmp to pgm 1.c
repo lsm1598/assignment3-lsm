@@ -10,8 +10,7 @@
 #define BYTE    unsigned char
 
 // 오픈소스 SW기초 협업 실습
-// 오픈소스 SW기초 협업 실습
-// 오픈소스 SW기초 협업 실습
+// 삭제해버렸다. by.이상무(관리자)
 
 
 void bmpBWrw()
